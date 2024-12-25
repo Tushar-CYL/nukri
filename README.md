@@ -1,6 +1,6 @@
 # naukri-website-clone 
 
-## [Deployed Link](https://naukri-clone-page.netlify.app/)  ||     [Blog Link](https://medium.com/@shubhamkmit9021/naukri-clone-e6cf540ab567)  
+## [Deployed Link](https://naukri-clone-page.netlify.app/)  
 
 ## TASK
 
